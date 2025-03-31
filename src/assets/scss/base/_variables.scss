@@ -1,0 +1,45 @@
+:root {
+    // background
+    --bg-main: #ffffff;
+    --bg-second: #a7a7a7;
+    
+    // burger
+    --burger-bg: rgba(0, 0, 0, 0);
+    --burger-color: #ffffff;
+
+    // nav
+    --menu-bg: #00000075;
+
+    // table
+    --table: #97979736;
+    --table-bg: rgba(0, 0, 0, 0.5);
+
+    //text
+    --text-main: #ffffff;
+    --text-second: #000000;
+    --text-active: #FFB548;
+
+    // input
+    --input: #979797;
+    --input-text: #FFB548;
+
+    //btn
+    --btnColor-default_bg: #FFB548;
+    --btnColor-default_text: #000000;
+
+    --btnColor-hover_bg: #ffffff;
+    --btnColor-hover_text: #000000;
+
+    --btnColor-focus_bg: #FFB548;
+    --btnColor-focus_text: #000000;
+    --btnBorder-focus_border: #ffffff;
+
+    // z-index
+    --index-elem-1: 1; // Для наползающих элементов
+    --index-elem-2: 2; // Для наползающих элементов
+    --index-elem-3: 3; // Для наползающих элементов
+    --index-mask: 4; // Для масок и оверлеев
+    --index-sidebar: 5; // Для сайдбаров
+    --index-modal: 6; // Для модалок
+    --index-topmost: 7; // Для перекрывающих все элементов
+}
