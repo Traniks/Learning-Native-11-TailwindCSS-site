@@ -1,13 +1,5 @@
 @use 'modern-normalize/modern-normalize.css';
-
-@use "base/mixins";
-@use "base/variables";
 @use "base/fonts";
-
-@use "blocks/header";
-@use "blocks/footer";
-
-@use "tailwindcss";
 
 * {
     box-sizing: border-box;

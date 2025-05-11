@@ -1,5 +1,3 @@
-import { burger } from './blocks/burger'
+import '/src/assets/css/main.css'
 
-document.addEventListener('DOMContentLoaded', () => {
-
-})
+console.log('Это главный файл JS')
